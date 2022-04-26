@@ -14,7 +14,7 @@ def main():
     parser = argparse.ArgumentParser(description="DPNet Demo")
     parser.add_argument(
         "--config-file",
-        default="configs/e2e_faster_rcnn_R_101_FPN_1x_rpc_syn_render_density_map.yaml",
+        default="configs/popper_test_config1.yaml",
         metavar="FILE",
         help="path to config file",
     )

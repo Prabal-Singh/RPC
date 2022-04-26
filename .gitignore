@@ -1,7 +1,9 @@
-cocoapi/*
-maskrcnn-benchmark/*
+cocoapi*
+maskrcnn-benchmark*
 maskrcnn_benchmark*
 build/temp.linux-x86_64-3.7/build.ninja
 build/temp.linux-x86_64-3.7/.ninja_log
 build/temp.linux-x86_64-3.7/.ninja_deps
 __pycache__/predictor.cpython-37.pyc
+TestImages/*
+rpc_results/*
